@@ -100,9 +100,13 @@ Some features that can be added in future versions:
 BCA Student | Aspiring Software Developer
 This project was created as part of my learning journey to gain practical experience in *Python, GUI development, databases, and software development*
 ------------------------------------
+## ## 🎥 Project Demo
+------------------------------
+[▶️ Watch Student Management System Demo]
+https://github.com/user-attachments/assets/541b0d87-4552-438c-8c4d-1e6e17a078f6
+
 ## ⭐ Support
 ------------------------------------
 ⭐ If you find this project useful or interesting , consider giving it a ⭐*star the repository*.!!!
 
 || Thank you for visiting my project!!!!!! ||
-
